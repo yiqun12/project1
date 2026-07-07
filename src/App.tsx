@@ -78,7 +78,7 @@ export default function App() {
       <header style={styles.header}>
         <h1 style={styles.title}>useDeals Demo</h1>
         <p style={styles.subtitle}>
-          TanStack Query + 游标分页 + 缓冲区一致页面
+          TanStack Query + 分页 + 缓冲区一致页面
         </p>
       </header>
 
